@@ -23,7 +23,7 @@ pip install matplotlib networkx
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/kruskal-visualization.git
+   git clone https://github.com/JoaoLucasDS/Kruskal
    cd kruskal-visualization
    ```
 
