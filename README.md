@@ -1,6 +1,3 @@
-Claro, aqui está o conteúdo do `README.md` com uma formatação mais ajustada:
-
-```markdown
 # Kruskal's Algorithm Visualization
 
 Este projeto implementa o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo. Além disso, utiliza as bibliotecas `matplotlib` e `networkx` para criar uma animação mostrando o processo de construção da árvore geradora mínima.
@@ -18,7 +15,6 @@ Certifique-se de ter Python instalado em seu ambiente. As bibliotecas necessári
 
 ```bash
 pip install matplotlib networkx
-```
 
 ## Uso
 
