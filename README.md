@@ -15,7 +15,7 @@ Certifique-se de ter Python instalado em seu ambiente. As bibliotecas necessári
 
 ```bash
 pip install matplotlib networkx
-
+```
 ## Uso
 
 ### Executando o Projeto
